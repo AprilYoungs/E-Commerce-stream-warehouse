@@ -29,14 +29,14 @@
 
 <img src="README.assets/F9D6CCAB-6E0D-4F46-B5EC-656273C415E3.png" alt="F9D6CCAB-6E0D-4F46-B5EC-656273C415E3" style="zoom:30%;" />
 
-数据采集:Flume、Canal
-数据存储:MySQL、Kafka、HBase、Redis
-数据计算:Flink
-OLAP: ClickHouse、Druid 框架
+* 数据采集:Flume、Canal
+* 数据存储:MySQL、Kafka、HBase、Redis
+* 数据计算:Flink
+* OLAP: ClickHouse、Druid 框架
 
 #### 系统逻辑架构
 
-![1BCBC446-5E8B-4A86-A031-B47FD8267898](README.assets/1BCBC446-5E8B-4A86-A031-B47FD8267898.png)
+![image-20211107150211294](README.assets/image-20211107150211294.png)
 
 ### 实现的功能
 
